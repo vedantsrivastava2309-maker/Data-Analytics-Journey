@@ -20,4 +20,4 @@ I'm a Computer Science Engineering student at PES University and I'm currently l
 Projects will be added here as I progress through my learning journey.
 
 ## Contact
-LinkedIn: Add your LinkedIn profile link here
+LinkedIn: www.linkedin.com/in/vedant-srivatsava-748480413
